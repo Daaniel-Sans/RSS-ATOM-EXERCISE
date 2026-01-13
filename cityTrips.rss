@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>¡Explore cities!</title>
+        <link>https://www.explorecities.com</link>
+        <description>A blog with guides, tips, and experiences to explore cities in a practical and fun way.</description>
+        <languaje>en</languaje>
+
+        <item>
+            <title>Historical tour of Turin (Torino)</title>
+            <guid>https://www.explorecities.com/turin-itinerary</guid>
+            <description>Historical route through Turin: explore its most iconic places on foot in a practical and fun way.</description>
+        </item>
+
+        <item>
+            <title>Nocturne tour by Seville</title>
+            <guid>https://www.recetasveganasfaciles.com/nocturne-tour-seville</guid>
+            <description>A nocturne ride by the most famous street of Seville at night</description>
+        </item>
